@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fire" size="1.000000 1.560976" />
+    <ImageTarget name="sgu_totdef" size="1.000000 1.598086" />
+    <ImageTarget name="sgu_socdef" size="1.000000 1.585185" />
+    <ImageTarget name="sgu_psyef" size="1.000000 1.586716" />
+    <ImageTarget name="sgu_mildef" size="1.000000 1.530706" />
+    <ImageTarget name="sgu_econdef" size="1.000000 1.556180" />
+    <ImageTarget name="sgu_digdef" size="1.000000 1.555967" />
+    <ImageTarget name="sgu_cvdef" size="1.000000 1.577330" />
+    <ImageTarget name="sgu_climate" size="1.000000 1.650522" />
+  </Tracking>
+</QCARConfig>
